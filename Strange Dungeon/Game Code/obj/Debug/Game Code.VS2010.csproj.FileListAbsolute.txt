@@ -1,0 +1,14 @@
+C:\Users\jake\Google Drive\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\newGame.dll
+C:\Users\jake\Google Drive\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\newGame.pdb
+C:\Users\jake\Google Drive\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\jake\Google Drive\PlayerIO\Flash\NewGame\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\jake\Google Drive\PlayerIO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\Game Code.VS2010.csprojResolveAssemblyReference.cache
+C:\Users\jake\Google Drive\PlayerIO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\newGame.dll
+C:\Users\jake\Google Drive\PlayerIO\Flash\NewGame\Serverside Code\Game Code\obj\Debug\newGame.pdb
+C:\Users\jake\Google Drive\Strange Dungeon\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\jake\Google Drive\Strange Dungeon\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\jake\Google Drive\Strange Dungeon\Game Code\bin\Debug\StrangeDungeon.dll
+C:\Users\jake\Google Drive\Strange Dungeon\Game Code\bin\Debug\StrangeDungeon.pdb
+C:\Users\jake\Google Drive\Strange Dungeon\Game Code\obj\Debug\StrangeDungeon.dll
+C:\Users\jake\Google Drive\Strange Dungeon\Game Code\obj\Debug\StrangeDungeon.pdb
+C:\Users\jake\Google Drive\Strange Dungeon\Game Code\obj\Debug\Game Code.VS2010.csprojResolveAssemblyReference.cache
